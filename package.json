@@ -16,11 +16,11 @@
   "bugs": {
     "url": "https://github.com/promama/heroku_deploy_testing_1/issues"
   },
-  "homepage": "https://github.com/promama/heroku_deploy_testing_1#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
   "engines": {
-    "node": "12.x"
-  }
+    "node": "15.x"
+  },
+  "devDependencies": {}
 }
