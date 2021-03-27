@@ -1,0 +1,23 @@
+{
+  "name": "heroku_deploy_testing_1",
+  "version": "1.0.0",
+  "description": "test deploy hello world project to heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/promama/heroku_deploy_testing_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/promama/heroku_deploy_testing_1/issues"
+  },
+  "homepage": "https://github.com/promama/heroku_deploy_testing_1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
