@@ -6,7 +6,7 @@ app.get('/', function(req, res) {
     res.send("hello world")
 })
 
-app.listen(port, function(err) {
+app.listen(port, "0.0.0.0", function(err) {
     if (err) {
         console.log("smth when wrong")
     }
